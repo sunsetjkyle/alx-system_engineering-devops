@@ -3,3 +3,4 @@ A script that creates a a symbolic link to /bin/ls, named __ls__
 A script that copies html files question 14
 A script that moves all files beginning with an uppercase letter to the directory /tmp/u
 A script that deletes all files in the current working directory that end with the character ~
+A script that Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
